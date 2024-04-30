@@ -1,1 +1,1 @@
-we will sum two numbers
+we will sum two numbers using c
